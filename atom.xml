@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://changefu.github.io/"/>
-  <updated>2022-02-15T09:57:36.345Z</updated>
+  <updated>2022-02-25T13:20:05.615Z</updated>
   <id>https://changefu.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>收藏家谬论</title>
+    <link href="https://changefu.github.io/2022/02/25/shou-cang-jia-miu-lun/"/>
+    <id>https://changefu.github.io/2022/02/25/shou-cang-jia-miu-lun/</id>
+    <published>2022-02-25T11:27:30.000Z</published>
+    <updated>2022-02-25T13:20:05.615Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;收藏家谬论&quot;&gt;&lt;a href=&quot;#收藏家谬论&quot; class=&quot;headerlink&quot; title=&quot;收藏家谬论&quot;&gt;&lt;/a&gt;收藏家谬论&lt;/h1&gt;&lt;blockquote&gt;
+&lt;h2 id=&quot;Excerpt&quot;&gt;&lt;a href=&quot;#Excerpt&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="学习" scheme="https://changefu.github.io/categories/%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="阅读" scheme="https://changefu.github.io/tags/%E9%98%85%E8%AF%BB/"/>
+    
+  </entry>
   
   <entry>
     <title>自造内心秩序之途</title>
@@ -157,7 +184,7 @@
     <link href="https://changefu.github.io/2020/05/20/ren-shen-bao-xian-ru-men-zhi-nan/"/>
     <id>https://changefu.github.io/2020/05/20/ren-shen-bao-xian-ru-men-zhi-nan/</id>
     <published>2020-05-20T07:27:31.000Z</published>
-    <updated>2022-01-18T03:42:11.185Z</updated>
+    <updated>2022-02-22T13:50:19.284Z</updated>
     
     <summary type="html">
     
@@ -205,6 +232,32 @@
   </entry>
   
   <entry>
+    <title>想要更高效地找到信息，你需要掌握这些搜索技巧</title>
+    <link href="https://changefu.github.io/2020/01/14/xiang-yao-geng-gao-xiao-di-zhao-dao-xin-xi-ni-xu-yao-zhang-wo-zhe-xie-sou-suo-ji-qiao/"/>
+    <id>https://changefu.github.io/2020/01/14/xiang-yao-geng-gao-xiao-di-zhao-dao-xin-xi-ni-xu-yao-zhang-wo-zhe-xie-sou-suo-ji-qiao/</id>
+    <published>2020-01-14T07:27:31.000Z</published>
+    <updated>2022-01-17T11:18:42.074Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;img src=&quot;https://tingtalk.me/search-tips/search.png&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="工作" scheme="https://changefu.github.io/categories/%E5%B7%A5%E4%BD%9C/"/>
+    
+    
+      <category term="搜索" scheme="https://changefu.github.io/tags/%E6%90%9C%E7%B4%A2/"/>
+    
+  </entry>
+  
+  <entry>
     <title>微信公众号排版心得</title>
     <link href="https://changefu.github.io/2020/01/14/wei-xin-gong-zhong-hao-pai-ban/"/>
     <id>https://changefu.github.io/2020/01/14/wei-xin-gong-zhong-hao-pai-ban/</id>
@@ -228,32 +281,6 @@
     
     
       <category term="写作" scheme="https://changefu.github.io/tags/%E5%86%99%E4%BD%9C/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>想要更高效地找到信息，你需要掌握这些搜索技巧</title>
-    <link href="https://changefu.github.io/2020/01/14/xiang-yao-geng-gao-xiao-di-zhao-dao-xin-xi-ni-xu-yao-zhang-wo-zhe-xie-sou-suo-ji-qiao/"/>
-    <id>https://changefu.github.io/2020/01/14/xiang-yao-geng-gao-xiao-di-zhao-dao-xin-xi-ni-xu-yao-zhang-wo-zhe-xie-sou-suo-ji-qiao/</id>
-    <published>2020-01-14T07:27:31.000Z</published>
-    <updated>2022-01-17T11:18:42.074Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;img src=&quot;https://tingtalk.me/search-tips/search.png&quot;
-        
-      
-    
-    </summary>
-    
-      <category term="工作" scheme="https://changefu.github.io/categories/%E5%B7%A5%E4%BD%9C/"/>
-    
-    
-      <category term="搜索" scheme="https://changefu.github.io/tags/%E6%90%9C%E7%B4%A2/"/>
     
   </entry>
   
