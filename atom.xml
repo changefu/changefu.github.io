@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://changefu.github.io/"/>
-  <updated>2023-03-12T15:07:53.236Z</updated>
+  <updated>2023-03-17T16:07:52.897Z</updated>
   <id>https://changefu.github.io/</id>
   
   <author>
@@ -17,11 +17,37 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>为什么书籍不起作用</title>
+    <title>教学是一种娱乐活动</title>
+    <link href="https://changefu.github.io/2023/03/18/jiao-xue-shi-yi-chong-yu-le-huo-dong/"/>
+    <id>https://changefu.github.io/2023/03/18/jiao-xue-shi-yi-chong-yu-le-huo-dong/</id>
+    <published>2023-03-17T16:06:40.000Z</published>
+    <updated>2023-03-17T16:07:52.897Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;教学是一种娱乐活动&quot;&gt;&lt;a href=&quot;#教学是一种娱乐活动&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="娱乐" scheme="https://changefu.github.io/categories/%E5%A8%B1%E4%B9%90/"/>
+    
+    
+      <category term="教学" scheme="https://changefu.github.io/tags/%E6%95%99%E5%AD%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title></title>
     <link href="https://changefu.github.io/2023/03/12/wei-shi-me-shu-ji-bu-qi-zuo-yong/"/>
     <id>https://changefu.github.io/2023/03/12/wei-shi-me-shu-ji-bu-qi-zuo-yong/</id>
     <published>2023-03-12T15:07:51.000Z</published>
-    <updated>2023-03-12T15:07:53.236Z</updated>
+    <updated>2023-03-13T07:18:00.769Z</updated>
     
     <summary type="html">
     
@@ -258,6 +284,32 @@
   </entry>
   
   <entry>
+    <title>想要更高效地找到信息，你需要掌握这些搜索技巧</title>
+    <link href="https://changefu.github.io/2020/01/14/xiang-yao-geng-gao-xiao-di-zhao-dao-xin-xi-ni-xu-yao-zhang-wo-zhe-xie-sou-suo-ji-qiao/"/>
+    <id>https://changefu.github.io/2020/01/14/xiang-yao-geng-gao-xiao-di-zhao-dao-xin-xi-ni-xu-yao-zhang-wo-zhe-xie-sou-suo-ji-qiao/</id>
+    <published>2020-01-14T07:27:31.000Z</published>
+    <updated>2022-01-17T11:18:42.074Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;img src=&quot;https://tingtalk.me/search-tips/search.png&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="工作" scheme="https://changefu.github.io/categories/%E5%B7%A5%E4%BD%9C/"/>
+    
+    
+      <category term="搜索" scheme="https://changefu.github.io/tags/%E6%90%9C%E7%B4%A2/"/>
+    
+  </entry>
+  
+  <entry>
     <title>微信公众号排版心得</title>
     <link href="https://changefu.github.io/2020/01/14/wei-xin-gong-zhong-hao-pai-ban/"/>
     <id>https://changefu.github.io/2020/01/14/wei-xin-gong-zhong-hao-pai-ban/</id>
@@ -281,32 +333,6 @@
     
     
       <category term="写作" scheme="https://changefu.github.io/tags/%E5%86%99%E4%BD%9C/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>想要更高效地找到信息，你需要掌握这些搜索技巧</title>
-    <link href="https://changefu.github.io/2020/01/14/xiang-yao-geng-gao-xiao-di-zhao-dao-xin-xi-ni-xu-yao-zhang-wo-zhe-xie-sou-suo-ji-qiao/"/>
-    <id>https://changefu.github.io/2020/01/14/xiang-yao-geng-gao-xiao-di-zhao-dao-xin-xi-ni-xu-yao-zhang-wo-zhe-xie-sou-suo-ji-qiao/</id>
-    <published>2020-01-14T07:27:31.000Z</published>
-    <updated>2022-01-17T11:18:42.074Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;&lt;img src=&quot;https://tingtalk.me/search-tips/search.png&quot;
-        
-      
-    
-    </summary>
-    
-      <category term="工作" scheme="https://changefu.github.io/categories/%E5%B7%A5%E4%BD%9C/"/>
-    
-    
-      <category term="搜索" scheme="https://changefu.github.io/tags/%E6%90%9C%E7%B4%A2/"/>
     
   </entry>
   
