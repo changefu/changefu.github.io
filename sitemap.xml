@@ -2,16 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://changefu.github.io/friends/index.html</loc>
-    
-    <lastmod>2026-04-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://changefu.github.io/tags/index.html</loc>
+    <loc>https://changefu.github.io/2023/03/18/jiao-xue-shi-yi-chong-yu-le-huo-dong/</loc>
     
     <lastmod>2026-04-15</lastmod>
     
@@ -38,24 +29,6 @@
   </url>
   
   <url>
-    <loc>https://changefu.github.io/2021/10/08/dian-nao-shi-yong-xiao-ji-qiao/</loc>
-    
-    <lastmod>2026-04-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://changefu.github.io/2023/03/21/xi-tong-chong-zhuang/</loc>
-    
-    <lastmod>2026-04-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://changefu.github.io/2022/02/14/zi-zao-nei-xin-zhi-xu-zhi-tu/</loc>
     
     <lastmod>2026-04-15</lastmod>
@@ -65,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://changefu.github.io/about/index.html</loc>
+    <loc>https://changefu.github.io/archives/index.html</loc>
     
     <lastmod>2026-04-15</lastmod>
     
@@ -74,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://changefu.github.io/archives/index.html</loc>
+    <loc>https://changefu.github.io/about/index.html</loc>
     
     <lastmod>2026-04-15</lastmod>
     
@@ -93,6 +66,69 @@
   
   <url>
     <loc>https://changefu.github.io/contact/index.html</loc>
+    
+    <lastmod>2026-04-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://changefu.github.io/friends/index.html</loc>
+    
+    <lastmod>2026-04-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://changefu.github.io/tags/index.html</loc>
+    
+    <lastmod>2026-04-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://changefu.github.io/2023/04/20/yi-xue-xi-zhe-wei-zhong-xin-de-xin-li-xue-yuan-ze/</loc>
+    
+    <lastmod>2026-04-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://changefu.github.io/2020/05/20/bao-xian-zhi-shi-ru-men/</loc>
+    
+    <lastmod>2026-04-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://changefu.github.io/2023/03/21/xin-xi-su-yang/</loc>
+    
+    <lastmod>2026-04-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://changefu.github.io/2023/09/06/ji-yu-zhu-dong-hui-yi-de-xue-xi-zhong-de-zhi-shi-jie-gou-yu-biao-shu/</loc>
+    
+    <lastmod>2026-04-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://changefu.github.io/2021/03/15/ru-he-zuo-chu-he-ge-de-ppt/</loc>
     
     <lastmod>2026-04-15</lastmod>
     
@@ -137,15 +173,6 @@
   </url>
   
   <url>
-    <loc>https://changefu.github.io/2020/01/14/xiang-yao-geng-gao-xiao-di-zhao-dao-xin-xi-ni-xu-yao-zhang-wo-zhe-xie-sou-suo-ji-qiao/</loc>
-    
-    <lastmod>2026-04-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://changefu.github.io/2023/04/11/da-huan-shi-bu-da-hai-zi/</loc>
     
     <lastmod>2026-04-15</lastmod>
@@ -173,7 +200,34 @@
   </url>
   
   <url>
-    <loc>https://changefu.github.io/2023/03/18/jiao-xue-shi-yi-chong-yu-le-huo-dong/</loc>
+    <loc>https://changefu.github.io/2020/01/14/markdown-ru-men-yu-jiao-xue/</loc>
+    
+    <lastmod>2026-04-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://changefu.github.io/2021/10/08/win-10-shi-yong-ji-qiao/</loc>
+    
+    <lastmod>2026-04-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://changefu.github.io/2023/03/21/win-10-xi-tong-chong-zhuang/</loc>
+    
+    <lastmod>2026-04-15</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://changefu.github.io/2023/03/21/win-10-ruan-jian-tui-jian/</loc>
     
     <lastmod>2026-04-15</lastmod>
     
@@ -201,87 +255,6 @@
   
   <url>
     <loc>https://changefu.github.io/2020/05/20/ren-shen-bao-xian-ru-men-zhi-nan/</loc>
-    
-    <lastmod>2026-04-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://changefu.github.io/2023/04/20/yi-xue-xi-zhe-wei-zhong-xin-de-xin-li-xue-yuan-ze/</loc>
-    
-    <lastmod>2026-04-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://changefu.github.io/2020/05/20/bao-xian-zhi-shi-ru-men/</loc>
-    
-    <lastmod>2026-04-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://changefu.github.io/2023/03/21/xin-xi-su-yang/</loc>
-    
-    <lastmod>2026-04-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://changefu.github.io/2021/03/15/ru-he-zuo-chu-he-ge-de-ppt/</loc>
-    
-    <lastmod>2026-04-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://changefu.github.io/2021/03/15/ru-he-zuo-chu-hao-kan-de-ppt/</loc>
-    
-    <lastmod>2026-04-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://changefu.github.io/2020/01/14/markdown-ru-men-yu-jiao-xue/</loc>
-    
-    <lastmod>2026-04-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://changefu.github.io/2020/01/14/markdown-ru-men-jiao-cheng-ji-shu-xie-feng-ge-zhi-nan/</loc>
-    
-    <lastmod>2026-04-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://changefu.github.io/2023/03/21/window-xi-tong-ruan-jian-tui-jian/</loc>
-    
-    <lastmod>2026-04-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://changefu.github.io/2021/10/08/windows-10-dian-nao-shi-yong-ji-qiao-jia-ruan-tui-jian-yi-ji-xi-tong-chong-zhuang-jiao-cheng/</loc>
     
     <lastmod>2026-04-15</lastmod>
     
@@ -322,6 +295,13 @@
   </url>
   
   <url>
+    <loc>https://changefu.github.io/tags/%E6%90%9C%E7%B4%A2/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://changefu.github.io/tags/%E6%95%99%E8%82%B2/</loc>
     <lastmod>2026-04-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -350,14 +330,21 @@
   </url>
   
   <url>
-    <loc>https://changefu.github.io/tags/PPT/</loc>
+    <loc>https://changefu.github.io/tags/%E8%AE%A4%E7%9F%A5%E7%A7%91%E5%AD%A6/</loc>
     <lastmod>2026-04-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://changefu.github.io/tags/%E6%90%9C%E7%B4%A2/</loc>
+    <loc>https://changefu.github.io/tags/%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB/</loc>
+    <lastmod>2026-04-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://changefu.github.io/tags/PPT/</loc>
     <lastmod>2026-04-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -401,14 +388,14 @@
   </url>
   
   <url>
-    <loc>https://changefu.github.io/categories/%E7%94%9F%E6%B4%BB/</loc>
+    <loc>https://changefu.github.io/categories/%E5%B7%A5%E4%BD%9C/</loc>
     <lastmod>2026-04-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://changefu.github.io/categories/%E5%B7%A5%E4%BD%9C/</loc>
+    <loc>https://changefu.github.io/categories/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2026-04-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
